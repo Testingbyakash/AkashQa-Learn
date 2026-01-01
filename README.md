@@ -1,5 +1,5 @@
 # AkashQa-Learn
 This is my Test cases repository
 
-Author- Akash Arya
+<h2>Author- Akash Arya</h2>
 
